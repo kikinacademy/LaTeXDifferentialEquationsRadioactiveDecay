@@ -1,0 +1,3 @@
+P(0) = P_0 = Ce^{0k} = C \\
+\Longrightarrow C = P_0 \\
+\therefore P(t) = P_0e^{kt}
